@@ -1,0 +1,11 @@
+E:\Software Developer\Computer\Project\Visual C#\Graphic Editor\Graphic Editor\bin\Debug\Graphic Editor.exe.config
+E:\Software Developer\Computer\Project\Visual C#\Graphic Editor\Graphic Editor\bin\Debug\Graphic Editor.exe
+E:\Software Developer\Computer\Project\Visual C#\Graphic Editor\Graphic Editor\bin\Debug\Graphic Editor.pdb
+E:\Software Developer\Computer\Project\Visual C#\Graphic Editor\Graphic Editor\obj\Debug\Graphic_Editor.FormMain.resources
+E:\Software Developer\Computer\Project\Visual C#\Graphic Editor\Graphic Editor\obj\Debug\Graphic_Editor.Properties.Resources.resources
+E:\Software Developer\Computer\Project\Visual C#\Graphic Editor\Graphic Editor\obj\Debug\Graphic Editor.csproj.GenerateResource.Cache
+E:\Software Developer\Computer\Project\Visual C#\Graphic Editor\Graphic Editor\obj\Debug\Graphic Editor.exe
+E:\Software Developer\Computer\Project\Visual C#\Graphic Editor\Graphic Editor\obj\Debug\Graphic Editor.pdb
+E:\Software Developer\Computer\Project\Visual C#\Graphic Editor\Graphic Editor\obj\Debug\Graphic Editor.csprojResolveAssemblyReference.cache
+E:\Software Developer\Computer\Project\Visual C#\Graphic Editor\Graphic Editor\obj\Debug\Graphic_Editor.FormResize.resources
+E:\Software Developer\Computer\Project\Visual C#\Graphic Editor\Graphic Editor\obj\Debug\Graphic_Editor.FormShapes.resources
